@@ -1,5 +1,5 @@
 # App
-- Final proyect of the cycle.
+- Final project of the cycle.
 
 # Fronted
 - Dart, Flutter
